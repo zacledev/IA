@@ -1,0 +1,4 @@
+.env
+ikuyo_rpg_state.json
+__pycache__/
+*.pyc
